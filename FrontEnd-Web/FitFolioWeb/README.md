@@ -1,4 +1,4 @@
-# untitled
+# FitFolio Web
 
 A new Flutter project.
 
