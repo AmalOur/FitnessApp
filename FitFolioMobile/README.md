@@ -1,4 +1,4 @@
-# untitled
+# FitFolio Mobile
 
 A new Flutter project.
 
